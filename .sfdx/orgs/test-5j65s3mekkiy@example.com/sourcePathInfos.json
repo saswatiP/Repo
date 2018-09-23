@@ -1,0 +1,525 @@
+[
+    [
+        "C:\\MyCloudProject\\force-app",
+        {
+            "sourcePath": "C:\\MyCloudProject\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1537724414327,
+            "changeTime": 1537724414327,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\MyCloudProject\\force-app\\main",
+        {
+            "sourcePath": "C:\\MyCloudProject\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1537724414327,
+            "changeTime": 1537724414327,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\MyCloudProject\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\MyCloudProject\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1537725233576,
+            "changeTime": 1537725233576,
+            "contentHash": "06bee0965939b6afb0fcf39b909d9e289a88dcc0"
+        }
+    ],
+    [
+        "C:\\MyCloudProject\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\MyCloudProject\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1537724414328,
+            "changeTime": 1537724414328,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\MyCloudProject\\force-app\\main\\default\\classes",
+        {
+            "sourcePath": "C:\\MyCloudProject\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1537724702262,
+            "changeTime": 1537724702262,
+            "contentHash": "f5a7674b73f512b967280812756e2a4d98f5f3a9",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\MyCloudProject\\force-app\\main\\default\\classes\\AccountDetails.cls",
+        {
+            "sourcePath": "C:\\MyCloudProject\\force-app\\main\\default\\classes\\AccountDetails.cls",
+            "isDirectory": false,
+            "size": 295,
+            "modifiedTime": 1537724702207,
+            "changeTime": 1537724702207,
+            "contentHash": "4bdab14b262a474d5aa2966b9b358f9075761c33",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\MyCloudProject\\force-app\\main\\default\\classes\\AccountDetails.cls-meta.xml",
+        {
+            "sourcePath": "C:\\MyCloudProject\\force-app\\main\\default\\classes\\AccountDetails.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1537724702197,
+            "changeTime": 1537724702197,
+            "contentHash": "ec29c6f2ff617299f8e53d0ea63d440cd27207eb",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\MyCloudProject\\force-app\\main\\default\\classes\\AccountDetails1.cls",
+        {
+            "sourcePath": "C:\\MyCloudProject\\force-app\\main\\default\\classes\\AccountDetails1.cls",
+            "isDirectory": false,
+            "size": 219,
+            "modifiedTime": 1537724702263,
+            "changeTime": 1537724702263,
+            "contentHash": "53edd68ebeeea5b641a264b7f3ad1c1172cee46a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\MyCloudProject\\force-app\\main\\default\\classes\\AccountDetails1.cls-meta.xml",
+        {
+            "sourcePath": "C:\\MyCloudProject\\force-app\\main\\default\\classes\\AccountDetails1.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1537724702246,
+            "changeTime": 1537724702246,
+            "contentHash": "d3aef1962f612e7e3db36e965fa06b72bf50ee30",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\MyCloudProject\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "C:\\MyCloudProject\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1537725233561,
+            "changeTime": 1537725233561,
+            "contentHash": "023481a95b21a2df9a1bdf939447138020234005"
+        }
+    ],
+    [
+        "C:\\MyCloudProject\\force-app\\main\\default\\layouts\\City__c-Bangalore Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\MyCloudProject\\force-app\\main\\default\\layouts\\City__c-Bangalore Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 3353,
+            "modifiedTime": 1537724702281,
+            "changeTime": 1537724702281,
+            "contentHash": "077e28707ee6623dd59e7827ab6ed6c3a75bab09",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\MyCloudProject\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "C:\\MyCloudProject\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1537725233500,
+            "changeTime": 1537725233500,
+            "contentHash": "39939f1ff56cb5725094557ec55a0ccb9e6a3c72"
+        }
+    ],
+    [
+        "C:\\MyCloudProject\\force-app\\main\\default\\objects\\City__c",
+        {
+            "sourcePath": "C:\\MyCloudProject\\force-app\\main\\default\\objects\\City__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1537724702318,
+            "changeTime": 1537724702318,
+            "contentHash": "55f2d3950ef333b5541f7b945901adb8d48b2041",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\MyCloudProject\\force-app\\main\\default\\objects\\City__c\\City__c.object-meta.xml",
+        {
+            "sourcePath": "C:\\MyCloudProject\\force-app\\main\\default\\objects\\City__c\\City__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2174,
+            "modifiedTime": 1537724702313,
+            "changeTime": 1537724702313,
+            "contentHash": "2e4b5bf3d749be4038226d985e4412a00105a375",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\MyCloudProject\\force-app\\main\\default\\objects\\City__c\\fields",
+        {
+            "sourcePath": "C:\\MyCloudProject\\force-app\\main\\default\\objects\\City__c\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1537724702317,
+            "changeTime": 1537724702317,
+            "contentHash": "804923b61ef265ed156bd8c3357ec677b2cd3a79",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\MyCloudProject\\force-app\\main\\default\\objects\\City__c\\fields\\City_No__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\MyCloudProject\\force-app\\main\\default\\objects\\City__c\\fields\\City_No__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 368,
+            "modifiedTime": 1537724702314,
+            "changeTime": 1537724702314,
+            "contentHash": "e31a319ebbb0adffaddf2bf7f8e962abb3ce549c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\MyCloudProject\\force-app\\main\\default\\objects\\City__c\\fields\\Country__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\MyCloudProject\\force-app\\main\\default\\objects\\City__c\\fields\\Country__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 999,
+            "modifiedTime": 1537724702315,
+            "changeTime": 1537724702315,
+            "contentHash": "a9c913ca9b7c6f465c7f61c98050e4f37dbfff64",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\MyCloudProject\\force-app\\main\\default\\objects\\City__c\\fields\\State__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\MyCloudProject\\force-app\\main\\default\\objects\\City__c\\fields\\State__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 1019,
+            "modifiedTime": 1537724702317,
+            "changeTime": 1537724702317,
+            "contentHash": "bffc27a782390bb8ef6749f344426a0d096fa88c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\MyCloudProject\\force-app\\main\\default\\objects\\City__c\\listViews",
+        {
+            "sourcePath": "C:\\MyCloudProject\\force-app\\main\\default\\objects\\City__c\\listViews",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1537724702318,
+            "changeTime": 1537724702318,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\MyCloudProject\\force-app\\main\\default\\objects\\City__c\\listViews\\All.listView-meta.xml",
+        {
+            "sourcePath": "C:\\MyCloudProject\\force-app\\main\\default\\objects\\City__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 204,
+            "modifiedTime": 1537724702319,
+            "changeTime": 1537724702319,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\MyCloudProject\\force-app\\main\\default\\triggers",
+        {
+            "sourcePath": "C:\\MyCloudProject\\force-app\\main\\default\\triggers",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1537724702329,
+            "changeTime": 1537724702329,
+            "contentHash": "20a5799564166b38b1afbc3b4f921df2f17d8e13",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\MyCloudProject\\force-app\\main\\default\\triggers\\bangaloreTrigger.trigger",
+        {
+            "sourcePath": "C:\\MyCloudProject\\force-app\\main\\default\\triggers\\bangaloreTrigger.trigger",
+            "isDirectory": false,
+            "size": 394,
+            "modifiedTime": 1537724702329,
+            "changeTime": 1537724702329,
+            "contentHash": "6b3731251d0156c90a79174f93c27b22bb4be5a9",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\MyCloudProject\\force-app\\main\\default\\triggers\\bangaloreTrigger.trigger-meta.xml",
+        {
+            "sourcePath": "C:\\MyCloudProject\\force-app\\main\\default\\triggers\\bangaloreTrigger.trigger-meta.xml",
+            "isDirectory": false,
+            "size": 178,
+            "modifiedTime": 1537724702327,
+            "changeTime": 1537724702327,
+            "contentHash": "cc4783bd7bb88d6bcbcebf01869690edeaa89d5c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\MyCloudProject",
+        {
+            "sourcePath": "C:\\MyCloudProject",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1537724618488,
+            "changeTime": 1537724618488,
+            "contentHash": "92ca9faf268bdc3bc4fdfed474395961a41825c6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\MyCloudProject\\force-app\\main\\default\\objects\\Account\\fields\\Mobile__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\MyCloudProject\\force-app\\main\\default\\objects\\Account\\fields\\Mobile__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 313,
+            "modifiedTime": 1537725233503,
+            "changeTime": 1537725233503,
+            "contentHash": "06777f41564328cbc7c6bbb3258a9c365f28e561"
+        }
+    ],
+    [
+        "C:\\MyCloudProject\\force-app\\main\\default\\objects\\Account\\fields\\Mobile_phone__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\MyCloudProject\\force-app\\main\\default\\objects\\Account\\fields\\Mobile_phone__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 325,
+            "modifiedTime": 1537725233504,
+            "changeTime": 1537725233504,
+            "contentHash": "2b6f913c3cbbbf80675a901c9b3a9f42ad0b9e81"
+        }
+    ],
+    [
+        "C:\\MyCloudProject\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\MyCloudProject\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9722,
+            "modifiedTime": 1537725233528,
+            "changeTime": 1537725233528,
+            "contentHash": "4cfb318a95e5f685ec93cdb92a4a55718fc1ed85"
+        }
+    ],
+    [
+        "C:\\MyCloudProject\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\MyCloudProject\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9770,
+            "modifiedTime": 1537725233542,
+            "changeTime": 1537725233542,
+            "contentHash": "9fe1c190d4cd473a5134806652a9fa6017b9c6b5"
+        }
+    ],
+    [
+        "C:\\MyCloudProject\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\MyCloudProject\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9722,
+            "modifiedTime": 1537725233552,
+            "changeTime": 1537725233552,
+            "contentHash": "51e8bc6e8d218469a773240725694772d437308f"
+        }
+    ],
+    [
+        "C:\\MyCloudProject\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\MyCloudProject\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9770,
+            "modifiedTime": 1537725233561,
+            "changeTime": 1537725233561,
+            "contentHash": "cb8cd522ec9097578f43b5377738c93a947d4872"
+        }
+    ],
+    [
+        "C:\\MyCloudProject\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\MyCloudProject\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5132,
+            "modifiedTime": 1537725233578,
+            "changeTime": 1537725233578,
+            "contentHash": "58723f777dcac069ec29c4cbb9581edf3d372bab"
+        }
+    ],
+    [
+        "C:\\MyCloudProject\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\MyCloudProject\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5136,
+            "modifiedTime": 1537725233586,
+            "changeTime": 1537725233586,
+            "contentHash": "4a51aa259e4c826b4266de8cb136acd660bc2da6"
+        }
+    ],
+    [
+        "C:\\MyCloudProject\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\MyCloudProject\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5472,
+            "modifiedTime": 1537725233614,
+            "changeTime": 1537725233614,
+            "contentHash": "cbed1ef645a5eada15015c98e7b2007ea6f2244c"
+        }
+    ],
+    [
+        "C:\\MyCloudProject\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\MyCloudProject\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 18865,
+            "modifiedTime": 1537725233633,
+            "changeTime": 1537725233633,
+            "contentHash": "6b41f19839bc87df1664ff3c421ef7c2355eedeb"
+        }
+    ],
+    [
+        "C:\\MyCloudProject\\force-app\\main\\default\\objects\\Account\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\MyCloudProject\\force-app\\main\\default\\objects\\Account\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1537725233503,
+            "changeTime": 1537725233503,
+            "contentHash": "8d078838f69d589ec8e64f98529e38e7ca5ab132"
+        }
+    ],
+    [
+        "C:\\MyCloudProject\\force-app\\main\\default\\objects\\Account",
+        {
+            "state": "u",
+            "sourcePath": "C:\\MyCloudProject\\force-app\\main\\default\\objects\\Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1537725233500,
+            "changeTime": 1537725233500,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ],
+    [
+        "C:\\MyCloudProject\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\MyCloudProject\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1537725233633,
+            "changeTime": 1537725233633,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ]
+]
